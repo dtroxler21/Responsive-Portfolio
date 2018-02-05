@@ -74,10 +74,12 @@ hr {
 .border-right {
 	border-right: 1px solid #777777;
 	padding: 0 8px;
+	text-decoration: none;
 }
 
 .contact-left{
 	padding: 0 5px;
+	text-decoration: none;
 }
 
 .wrapper {
@@ -118,6 +120,11 @@ hr {
 
 #img-hangman {
 	margin-left: 40px;
+}
+
+#hangman-link {
+	color: white;
+	text-decoration: none;
 }
 
 #img-rpg {
